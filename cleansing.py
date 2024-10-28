@@ -3,7 +3,7 @@ import numpy as np
 from datetime import datetime
 
 # Create sample messy data
-data = pd.read_csv('/Users/adhinugroho/Downloads/chatbot/pandasai/PotensiMB.csv',
+data = pd.read_csv('.../PotensiMB.csv',
                    delim_whitespace=True,  # This handles multiple spaces
                         skipinitialspace=True,  # Skip spaces at the start of fields
                         error_bad_lines=False,  # Skip problematic lines

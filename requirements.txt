@@ -1,0 +1,7 @@
+pandasai[connectors]
+streamlit
+numpy==1.23.5
+PyYAML
+torch 
+torchvision 
+torchaudio
